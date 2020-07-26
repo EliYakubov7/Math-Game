@@ -22,7 +22,7 @@ Media Player, Rand Function, SharedPreferences, Show Case Material View, Toasty,
 
 ### Splash Screen
 
-<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/splash_screen1.jpg" width="250">  
+<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/splash_screen.jpg" width="250">  
 
 ### Main Screen
 
@@ -30,7 +30,7 @@ Media Player, Rand Function, SharedPreferences, Show Case Material View, Toasty,
 
 ### Loading Screen
 
-<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/loading_screen.jpg" width="250">  
+<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/loading_screen.jpg1" width="250">  
 
 ### Example - Instructions Screen - Quick Math State
 
