@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/math1" android:duration="50"/>
+    <item android:drawable="@drawable/math2" android:duration="50"/>
+    <item android:drawable="@drawable/math3" android:duration="50"/>
+    <item android:drawable="@drawable/math4" android:duration="50"/>
+    <item android:drawable="@drawable/math5" android:duration="50"/>
+    <item android:drawable="@drawable/math6" android:duration="50"/>
+    <item android:drawable="@drawable/math7" android:duration="50"/>
+    <item android:drawable="@drawable/math8" android:duration="50"/>
+    <item android:drawable="@drawable/math9" android:duration="50"/>
+    <item android:drawable="@drawable/math10" android:duration="50"/>
+    <item android:drawable="@drawable/math11" android:duration="50"/>
+    <item android:drawable="@drawable/math12" android:duration="50"/>
+    <item android:drawable="@drawable/math13" android:duration="50"/>
+    <item android:drawable="@drawable/math14" android:duration="50"/>
+    <item android:drawable="@drawable/math15" android:duration="50"/>
+    <item android:drawable="@drawable/math16" android:duration="50"/>
+    <item android:drawable="@drawable/math17" android:duration="50"/>
+    <item android:drawable="@drawable/math18" android:duration="50"/>
+    <item android:drawable="@drawable/math19" android:duration="50"/>
+    <item android:drawable="@drawable/math20" android:duration="50"/>
+    <item android:drawable="@drawable/math21" android:duration="50"/>
+    <item android:drawable="@drawable/math22" android:duration="50"/>
+    <item android:drawable="@drawable/math23" android:duration="50"/>
+    <item android:drawable="@drawable/math24" android:duration="50"/>
+    <item android:drawable="@drawable/math25" android:duration="50"/>
+    <item android:drawable="@drawable/math26" android:duration="50"/>
+    <item android:drawable="@drawable/math27" android:duration="50"/>
+    <item android:drawable="@drawable/math28" android:duration="50"/>
+    <item android:drawable="@drawable/math30" android:duration="50"/>
+    <item android:drawable="@drawable/math31" android:duration="50"/>
+    <item android:drawable="@drawable/math32" android:duration="50"/>
+    <item android:drawable="@drawable/math31" android:duration="50"/>
+    <item android:drawable="@drawable/math30" android:duration="50"/>
+    <item android:drawable="@drawable/math28" android:duration="50"/>
+    <item android:drawable="@drawable/math27" android:duration="50"/>
+    <item android:drawable="@drawable/math26" android:duration="50"/>
+    <item android:drawable="@drawable/math25" android:duration="50"/>
+    <item android:drawable="@drawable/math24" android:duration="50"/>
+    <item android:drawable="@drawable/math23" android:duration="50"/>
+    <item android:drawable="@drawable/math22" android:duration="50"/>
+    <item android:drawable="@drawable/math21" android:duration="50"/>
+    <item android:drawable="@drawable/math20" android:duration="50"/>
+    <item android:drawable="@drawable/math19" android:duration="50"/>
+    <item android:drawable="@drawable/math18" android:duration="50"/>
+    <item android:drawable="@drawable/math17" android:duration="50"/>
+    <item android:drawable="@drawable/math16" android:duration="50"/>
+    <item android:drawable="@drawable/math15" android:duration="50"/>
+    <item android:drawable="@drawable/math14" android:duration="50"/>
+    <item android:drawable="@drawable/math13" android:duration="50"/>
+    <item android:drawable="@drawable/math12" android:duration="50"/>
+    <item android:drawable="@drawable/math11" android:duration="50"/>
+    <item android:drawable="@drawable/math10" android:duration="50"/>
+    <item android:drawable="@drawable/math9" android:duration="50"/>
+    <item android:drawable="@drawable/math8" android:duration="50"/>
+    <item android:drawable="@drawable/math7" android:duration="50"/>
+    <item android:drawable="@drawable/math6" android:duration="50"/>
+    <item android:drawable="@drawable/math5" android:duration="50"/>
+    <item android:drawable="@drawable/math4" android:duration="50"/>
+    <item android:drawable="@drawable/math3" android:duration="50"/>
+    <item android:drawable="@drawable/math2" android:duration="50"/>
+
+
+</animation-list>

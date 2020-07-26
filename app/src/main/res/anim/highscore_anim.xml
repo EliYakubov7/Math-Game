@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/highscore0" android:duration="75"/>
+    <item android:drawable="@drawable/highscore1" android:duration="75"/>
+    <item android:drawable="@drawable/highscore2" android:duration="75"/>
+    <item android:drawable="@drawable/highscore3" android:duration="75"/>
+    <item android:drawable="@drawable/highscore4" android:duration="75"/>
+    <item android:drawable="@drawable/highscore5" android:duration="75"/>
+    <item android:drawable="@drawable/highscore6" android:duration="75"/>
+    <item android:drawable="@drawable/highscore7" android:duration="75"/>
+    <item android:drawable="@drawable/highscore8" android:duration="75"/>
+    <item android:drawable="@drawable/highscore9" android:duration="75"/>
+    <item android:drawable="@drawable/highscore10" android:duration="75"/>
+    <item android:drawable="@drawable/highscore11" android:duration="75"/>
+    <item android:drawable="@drawable/highscore12" android:duration="75"/>
+    <item android:drawable="@drawable/highscore0" android:duration="75"/>
+    <item android:drawable="@drawable/highscore12" android:duration="75"/>
+    <item android:drawable="@drawable/highscore0" android:duration="75"/>
+    <item android:drawable="@drawable/highscore12" android:duration="75"/>
+</animation-list>

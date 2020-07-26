@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayoutQuickMath"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transit">
+
+    <TextView
+        android:id="@+id/tvStopWatch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="@font/amaticsc_bold"
+        android:text="@string/start_timer"
+        android:textColor="#000"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ivMute"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/none"
+        android:onClick="muteTemp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_volume_up_black_24dp" />
+
+    <TextView
+        android:id="@+id/tvQuickMathQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:elevation="20dp"
+        android:fontFamily="@font/permanentmarker_regular"
+        android:gravity="center"
+        android:onClick="showPopUp"
+        android:text="@string/start_exercise"
+        android:textColor="#000"
+        android:textDirection="anyRtl"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvStopWatch"
+        tools:targetApi="lollipop" />
+
+    <ImageView
+        android:id="@+id/ivAnimationTeacher"
+        android:layout_width="175dp"
+        android:layout_height="175dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/none"
+        android:src="@anim/teacher_anim"
+        app:layout_constraintBottom_toTopOf="@id/tvQuickMathsScore"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvGo" />
+
+    <TextView
+        android:id="@+id/tvGo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/reeniebeanie"
+        android:text="@string/go"
+        android:textColor="#000"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toTopOf="@id/ivAnimationTeacher"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvQuickMathQuestion" />
+
+    <TextView
+        android:id="@+id/tvQuickMathsScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/amaticsc_bold"
+        android:text="@string/start_score"
+        android:textColor="#000"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toTopOf="@id/linearLayoutAnswers"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ivAnimationTeacher" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutAnswers"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintDimensionRatio="@android:dimen/dialog_min_width_major"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/btnQuickMathCorrect"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_btn_green"
+            android:elevation="10dp"
+            android:fontFamily="@font/permanentmarker_regular"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:onClick="choose"
+            android:tag="0"
+            android:text="@string/correct_btn"
+            android:textColor="#000"
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="405dp" />
+
+        <Button
+            android:id="@+id/btnQuickMathWrong"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_btn_red"
+            android:elevation="10dp"
+            android:fontFamily="@font/permanentmarker_regular"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:onClick="choose"
+            android:tag="1"
+            android:text="@string/wrong"
+            android:textColor="#000"
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="95dp"
+            tools:layout_editor_absoluteY="345dp" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/kid" android:duration="75"/>
+    <item android:drawable="@drawable/kid1" android:duration="75"/>
+    <item android:drawable="@drawable/kid2" android:duration="75"/>
+    <item android:drawable="@drawable/kid3" android:duration="75"/>
+    <item android:drawable="@drawable/kid4" android:duration="75"/>
+    <item android:drawable="@drawable/kid5" android:duration="75"/>
+    <item android:drawable="@drawable/kid6" android:duration="75"/>
+    <item android:drawable="@drawable/kid7" android:duration="75"/>
+    <item android:drawable="@drawable/kid8" android:duration="75"/>
+    <item android:drawable="@drawable/kid9" android:duration="75"/>
+    <item android:drawable="@drawable/kid10" android:duration="75"/>
+    <item android:drawable="@drawable/kid11" android:duration="75"/>
+    <item android:drawable="@drawable/kid12" android:duration="75"/>
+    <item android:drawable="@drawable/kid13" android:duration="75"/>
+    <item android:drawable="@drawable/kid14" android:duration="75"/>
+    <item android:drawable="@drawable/kid15" android:duration="75"/>
+    <item android:drawable="@drawable/kid16" android:duration="75"/>
+    <item android:drawable="@drawable/kid17" android:duration="75"/>
+    <item android:drawable="@drawable/kid18" android:duration="75"/>
+    <item android:drawable="@drawable/kid19" android:duration="75"/>
+    <item android:drawable="@drawable/kid20" android:duration="75"/>
+    <item android:drawable="@drawable/kid21" android:duration="75"/>
+    <item android:drawable="@drawable/kid22" android:duration="75"/>
+    <item android:drawable="@drawable/kid23" android:duration="75"/>
+    <item android:drawable="@drawable/kid24" android:duration="75"/>
+    <item android:drawable="@drawable/kid25" android:duration="75"/>
+    <item android:drawable="@drawable/kid26" android:duration="75"/>
+    <item android:drawable="@drawable/kid27" android:duration="75"/>
+    <item android:drawable="@drawable/kid28" android:duration="75"/>
+    <item android:drawable="@drawable/kid29" android:duration="75"/>
+    <item android:drawable="@drawable/kid30" android:duration="75"/>
+    <item android:drawable="@drawable/kid31" android:duration="75"/>
+
+
+</animation-list>

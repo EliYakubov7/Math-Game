@@ -1,0 +1,224 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="PluralsCandidate">
+    <string name="app_name" translatable="false">Math Thinkers</string>
+
+
+    <string name="hey_buddy">Hey, buddy ?</string>
+
+    <!--User feedback strings for Time Trials-->
+    <string name="good_job">GOOD JOB !</string>
+    <string name="amazing">AMAZING !</string>
+    <string name="fantastic">FANTASTIC !</string>
+    <string name="damn">DAMN !</string>
+    <string name="genius">GENIUS !</string>
+    <string name="sweet">SWEET !</string>
+    <string name="wow">WOW !</string>
+    <string name="nice">NICE !</string>
+    <string name="excellent">Excellent  !</string>
+    <string name="brilliant">BRILLIANT !</string>
+    <string name="o_o" translatable="false">O_O</string>
+    <string name="bananas">BANANAS !</string>
+    <string name="oh_no">Oh no !</string>
+    <string name="next">Next !</string>
+    <string name="sad">:(</string>
+
+
+    <string name="hint_unlimited_time">Hint: In Advanced mode you have unlimited time!</string>
+    <!--score-->
+    <string name="score_calc">SCORE : %1$d</string>
+
+    <!--Quick Maths Loading Screen-->
+    <string name="hint_background_alert">Hint: Keep an eye on the background color. It indicates how much time you have remaining.</string>
+    <string name="hint_panic">Hint: Don\'t panic when you see the color change. You still have about 10 seconds left.</string>
+    <string name="start_over">Quick maths is only 30 seconds long. if you have too many mistakes, why not start over?? .</string>
+    <!--Time trials loading screen -->
+    <string name="hint_time_resets">Hint: Time resets every time you answer correctly</string>
+    <string name="hint_difficulty">Hint: Difficulty varies from question to question</string>
+    <string name="hint_improve">Hint: Save time by trying to solve only the last digits</string>
+
+    <string name="get_ready">Get Ready</string>
+    <string name="countdown_3" translatable="false">3</string>
+    <string name="check_with_friends">Check how great you are !  compare results with your friends.</string>
+
+    <!--advanced loading screen-->
+    <string name="hint_not_enemy">Hint: Time is not your enemy in Advanced mode</string>
+    <!--loading screen-->
+    <string name="loading_screen_timer" translatable="false">%1$d</string>
+
+    <!--timer-->
+    <string name="time_left_ten">00:10 Seconds</string>
+    <string name="time_left">%1$d Sec</string>
+    <string name="time_left_ten_less">0%1$d Sec</string>
+
+    <!--quick math timer-->
+    <string name="timer_quick_math">Time Left: %1$d Sec</string>
+    <string name="timer_quick_math_ten_less">Time Left: 0%1$d Sec</string>
+    <string name="timer_disabled">Timer Disabled</string>
+    <!--advanced-->
+    <string name="box" translatable="false">%1$d</string>
+    <string name="advanced_score">%1$d of %2$d</string>
+    <string name="triple_sum" translatable="false">%1$d + %2$d + %3$d</string>
+    <string name="triple_sum_multiply" translatable="false">(%1$d + %2$d) x %3$d</string>
+    <string name="triple_sub_multiply" translatable="false">(%1$d - %2$d) x %3$d</string>
+    <string name="triple_sum_div" translatable="false">(%1$d + %2$d) / %3$d</string>
+    <string name="triple_sub_div" translatable="false">(%1$d - %2$d) / %3$d</string>
+    <string name="triple_sub" translatable="false">%1$d - %2$d - %3$d</string>
+    <string name="go">GO!</string>
+
+    <!--quick math-->
+    <string name="exmaple_addition" translatable="false">%1$d + %2$d = %3$d</string>
+    <string name="example_subtraction" translatable="false">%1$d - %2$d = %3$d</string>
+    <string name="example_multiplication" translatable="false">%1$d x %2$d = %3$d</string>
+    <string name="example_division" translatable="false">%1$d / %2$d = %3$d</string>
+
+    <!--quick math score pop up text-->
+    <string name="hello_genius">Hello genius!</string>
+    <string name="you_can_do_better">You can do better!</string>
+    <string name="need_more_practice">Need more practice!</string>
+
+
+    <string name="challenge_your_math_skills">Challenge your math skills</string>
+
+    <string name="correct_btn">CORRECT</string>
+    <string name="wrong">WRONG</string>
+    <string name="start_score">SCORE : 0</string>
+    <string name="start_timer">00:30 Seconds</string>
+    <string name="start_exercise" translatable="false">2 + 2 = 5</string>
+    <string name="choose_game">Choose your desired mode</string>
+    <string name="quick__game">Quick\nMaths\nMode</string>
+    <string name="advanced_game">Advanced\nMode</string>
+    <string name="time_trials_game">Time\nTrials\nMode</string>
+    <string name="highscore">High\nScores</string>
+
+
+    <!--What does kids mode do-->
+    <string name="kids_mode_score"><u>How we score</u></string>
+    <string name="kids_mode">Kids mode</string>
+    <!--high score page-->
+    <string name="highscore_caps">HIGH SCORES</string>
+    <string name="highest_quick">SCORE : %1$d of %2$d</string>
+    <string name="highest_advanced">SCORE : %1$d of %2$d</string>
+    <string name="highest_time_trials">SCORE : %1$d</string>
+    <string name="timesPlayed">Times played : %1$d</string>
+    <string name="timeTaken">Time taken : %1$d seconds</string>
+    <string name="about_score"><u>Learn how we score you</u></string>
+
+    <!--learnAboutScore strings-->
+    <string name="quick">Quick Math Mode</string>
+    <string name="timeTrials">Time Trials Mode</string>
+    <string name="advanced">Advanced Mode</string>
+
+    <string name="quick_rules">Score based on the difference of correct vs wrong answers. Highscore won\'t change if kids mode is on, any type of questions is disabled or if the timer is disabled.</string>
+    <string name="time_trials_rules">"Score is based on the number of correct answers within the time taken , If you mistake the game will be over and you can start over. Highscore won\'t change if kids mode is on, any type of question is disabled or if the timer is disabled. "</string>
+    <string name="advanced_rules">Advanced let you play as much as you want. Score based on time taken, nubmer of correct and total questions.</string>
+
+
+    <!--Info Screen-->
+    <string name="app_idea">" The idea behind MathThinkers is to assist children in primary school to improve their mathematical skills so preparing homework and passing exams would be easier."</string>
+    <string name="creators" translatable="false">Gal Reshef &amp; Eliyahu Yakubov</string>
+    <string name="created_by">Created by GREY studios</string>
+
+
+    <string name="answer" translatable="false">1 + 2 = 6</string>
+    <string name="answer2" translatable="false">4 x 5 = 22</string>
+    <string name="answer3" translatable="false">3 x 3 = 9</string>
+    <string name="answer1" translatable="false">8 – 2 = 3</string>
+
+
+    <string name="zero_of_zero">0 0f 0</string>
+    <string name="click_stop">Click on timer to STOP</string>
+
+    <string name="congratulations">Congratulations!</string>
+    <string name="correct">Correct</string>
+    <string name="play_again">Play Again</string>
+    <string name="num_questions">Total Questions</string>
+    <string name="menu">MENU</string>
+
+    <string name="none" translatable="false" />
+    <string name="score">Score</string>
+    <string name="played">played</string>
+    <string name="back">back</string>
+
+    <string name="score_reset">Click on board score to reset score for specific type</string>
+
+    <!--Instructions Quick Math Game - First Time-->
+    <string name="first_sequence_item_qmg">Welcome to Quick Math Mode ! This is mode is correct or wrong . Try to answer as many questions as you can before the timer runs out</string>
+    <string name="first_sequence_item_next_qmg">Next</string>
+    <string name="second_sequence_item_qmg">Analyze the question before you answer, but do it the fastest way . You can click on question to restart or quit at any time.</string>
+    <string name="second_sequence_item_next_qmg">Next</string>
+    <string name="third_sequence_item_qmg">I will help you with this question - it\'s a correct equation. Tap on correct.</string>
+    <string name="fourth_sequence_item_qmg">I will help you with this question - it\'s a wrong equation. Tap on wrong.</string>
+    <string name="fifth_sequence_item_qmg">"You will get a feedback based on your answer.Keep an eye on the background because in the last 10 seconds the screen change color.Tap on Good Job to proceed.</string>
+    <string name="sixth_sequence_item_qmg">Tap on question to stop and open up the scoreboard. You are ready to play !</string>
+
+
+    <!--Instructions Time Trials Game - First Time-->
+    <string name="first_sequence_item_ttg">Welcome to Time Trials Mode ! You have 10 seconds to find the correct equation.Timer resets if you find the correct one and if not the game is over</string>
+    <string name="first_sequence_item_next_ttg">Next</string>
+    <string name="second_sequence_item_ttg">"I'll help you with this one - since the correct answer is : "</string>
+    <string name="third_sequence_item_ttg">Tap on the button.</string>
+    <string name="fourth_sequence_item_ttg">You will get a feedback based on your answer. Words of encouragement !</string>
+    <string name="fifth_sequence_item_ttg">Next</string>
+    <string name="sixth_sequence_item_ttg">This is your Score. Pretty simple. You\'re all set ! Tap on a wrong equation to bring up the scoreboard .</string>
+    <string name="seventh_sequence_item_ttg">Done</string>
+
+
+    <!--Instructions Advanced Game - First Time-->
+    <string name="first_sequence_item_ag">Welcome to Advanced Mode ! There is no time limit . This mode is designed for training . You can click on stopwatch at any time to restart or quit .</string>
+    <string name="first_sequence_item_next_ag">Next</string>
+    <string name="second_sequence_item_ag">The questions in this mode are meant for the advanced and they contains combinations of operators remember : train hard , fight easy !</string>
+    <string name="second_sequence_item_next_ag">Next</string>
+
+    <string name="third_sequence_item_ag">I will help you with this question - the correct answer is :</string>
+    <string name="fourth_sequence_item_ag">Tap on the button .</string>
+    <string name="fifth_sequence_item_ag">Your score is up here . You got 1 right out of 1 question. You\'re all set, now start training your brain !"</string>
+    <string name="sixth_sequence_item_ag">LET\'S GO !</string>
+
+    <!--Toasty-->
+    <string name="high_score_board_reset">Score reset successful</string>
+    <string name="high_score_board_disabled">High Score ranking disabled - check your settings</string>
+    <string name="kids_mode_disabled">Score ranking disabled : Cannot rank when kids mode is enabled</string>
+    <string name="score_ranking_reenabled">Score ranking has been re-enabled</string>
+    <string name="score_ranking_disabled">Score ranking has been disabled</string>
+    <string name="vibration_enabled">Vibration is enabled</string>
+    <string name="vibration_disabled">Vibration is disabled</string>
+    <string name="flashing_text_enabled">Flashing Text is enabled</string>
+    <string name="flashing_text_disabled">Flashing Text is disabled</string>
+    <string name="keep_least_one_operation_enabled">Please keep at least one type of operations enabled</string>
+
+    <string name="reset_score">Reset this score ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="mute_button" translatable="false">muteButton</string>
+    <string name="image_teacher" translatable="false">ImageTeacher</string>
+    <string name="image_kid" translatable="false">ImageKid</string>
+
+    <string name="times_taken">Time taken in seconds</string>
+    <string name="new_high_score">NEW HIGH SCORE !</string>
+    <string name="image_splash_screen_app" translatable="false">ImageSplashScreenApp</string>
+    <string name="find_correct_equation">Find the correct equation</string>
+
+    <string name="instructions_enabled">Instructions are available again</string>
+    <string name="settings_kids_mode">Score ranking is disabled</string>
+    <string name="vibration">Vibration</string>
+    <string name="settings_vibrate">Vibrate on wrong answer</string>
+    <string name="show_instructions"><u>Show Instructions</u></string>
+    <string name="settings_flashing_text">Flashing Text</string>
+    <string name="settings_quick_math">Quick Math Mode Settings</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="timer">Timer</string>
+    <string name="settings_timer">If disabled high score won\'t update</string>
+    <string name="settings_time_trails">Time Trials Mode Settings</string>
+    <string name="settings_advanced">Advanced Math Mode Settings (With Extra)</string>
+    <string name="settings_game_info">Select your operations - addition is default</string>
+    <string name="settings_combined_question">Combined question</string>
+    <string name="settings_multi_add">Multiplication with Addition</string>
+    <string name="settings_multi_sub">Multiplication with Subtraction</string>
+    <string name="settings_div_add">Division with Addition</string>
+    <string name="settings_div_sub">Division with Subtraction</string>
+    <string name="game_settings">Game settings</string>
+    <string name="note_high_score"><u>General Note : You must keep all the mathematical actions are available state for scoring rankings</u></string>
+</resources>

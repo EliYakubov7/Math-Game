@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/game_settings">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="switchKidMode"
+            android:title="@string/kids_mode"
+            android:summary="@string/settings_kids_mode"/>
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="switchVibration"
+            android:title="@string/vibration"
+            android:summary="@string/settings_vibrate"/>
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="switchFlashText"
+            android:title="@string/settings_flashing_text" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/settings_quick_math"
+        android:summary="@string/settings_game_info">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="quickMathAddition"
+            android:title="@string/addition"/>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="quickMathSubtraction"
+            android:title="@string/subtraction" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="quickMathMultiplication"
+            android:title="@string/multiplication" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="quickMathDivision"
+            android:title="@string/division" />
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="switchQuickMathTimer"
+            android:title="@string/timer"
+            android:summary="@string/settings_timer"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/settings_time_trails"
+        android:summary="@string/settings_game_info">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="timeTrialsAddition"
+            android:title="@string/addition" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="timeTrialsSubtraction"
+            android:title="@string/subtraction" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="timeTrialsMultiplication"
+            android:title="@string/multiplication" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="timeTrialsDivision"
+            android:title="@string/division" />
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="switchTimeTrialsTimer"
+            android:title="@string/timer"
+            android:summary="@string/settings_timer"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/settings_advanced"
+        android:summary="@string/settings_game_info">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="AdvancedAddition"
+            android:title="@string/addition"/>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="AdvancedSubtraction"
+            android:title="@string/subtraction"/>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="AdvancedMultiAdd"
+            android:title="@string/settings_multi_add"
+            android:summary="@string/settings_combined_question"/>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="AdvancedMultiSub"
+            android:title="@string/settings_multi_sub"
+            android:summary="@string/settings_combined_question"/>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="AdvancedDivAdd"
+            android:title="@string/settings_div_add"
+            android:summary="@string/settings_combined_question"/>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="AdvancedDivSub"
+            android:title="@string/settings_div_sub"
+            android:summary="@string/settings_combined_question"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
