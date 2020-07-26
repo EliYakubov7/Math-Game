@@ -38,7 +38,7 @@ Media Player, Rand Function, SharedPreferences, Show Case Material View, Toasty,
 
 ### Kinds Of Game Screens
 
-<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/quick_math_screen.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/time_trails_screen.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/advanced_screen.jpg"width="250">  
+<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/quick_math_screen.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/time_trails_screen.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/advanced_screen.jpg" width="250">  
 
 ### Kinds Of Scoreboard
 
