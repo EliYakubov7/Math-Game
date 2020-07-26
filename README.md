@@ -30,11 +30,11 @@ Media Player, Rand Function, SharedPreferences, Show Case Material View, Toasty,
 
 ### Loading Screen
 
-<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/loading_screen.jpg1" width="250">  
+<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/loading_screen1.jpg" width="250">  
 
 ### Example - Instructions Screen - Quick Math State
 
-<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/instructions_quick_math_screen1.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/instructions_quick_math_screen2.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/instructions_quick_math_screen3.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/instructions_quick_math_screen2.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/instructions_quick_math_screen4.jpg"  width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/instructions_quick_math_screen2.jpg"  width="250"> , <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/instructions_quick_math_screen5.jpg" width="250">  
+<img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/introduction_quick_math_screen1.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/introduction_quick_math_screen2.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/introduction_quick_math_screen3.jpg" width="250"> <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/introduction_quick_math_screen4.jpg"  width="250"> , <img src="https://github.com/EliYakubov7/Math-Game/blob/master/screenshots/introduction_quick_math_screen5.jpg" width="250">  
 
 ### Kinds Of Game Screens
 
