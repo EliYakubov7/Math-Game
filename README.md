@@ -1,4 +1,4 @@
-# Math-Game
+# Math-Thinkers
 Android Studio App
 
 ## About the project:
