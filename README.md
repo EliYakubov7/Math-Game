@@ -7,7 +7,7 @@ Android Studio App
 - The main purpose of the application is to help children in elementary school improve their
 mathematical skills, making it easier for homework and exams
 - The project uses : Animations, Chronometer, Count Down Timer, Dialog, Fonts, Localization,
-Media Player, Rand Function, SharedPreferences, Show Case Material View, Toasty, XML Shapes
+Media Player, Rand Functions, SharedPreferences, Show Case Material View, Toasty, XML Shapes
 - The app supports two language : English and Hebrew
 
 ## About the game:
