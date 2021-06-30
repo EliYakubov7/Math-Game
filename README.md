@@ -8,7 +8,7 @@ Android Studio App
 mathematical skills, making it easier for homework and exams
 - The project uses : Animations, Chronometer, Count Down Timer, Dialog, Fonts, Localization,
 Media Player, Rand Functions, SharedPreferences, Show Case Material View, Settings Fragment, Splash Screen, Toasty, XML Shapes
-- The app supports two language : English and Hebrew
+- The app supports two languages : English and Hebrew
 
 ## About the game:
 
